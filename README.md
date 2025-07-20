@@ -7,6 +7,6 @@
 
 </div>
 
-**Анализ файлов через VirusTotal прямо из контекстного меню Проводника [Русская версия](README_ru.md)**
+**Анализ файлов через VirusTotal прямо из контекстного меню Проводника [Русская версия](readme_ru.md)**
 
-**File analysing via VirusTotal directly from the Explorer context menu [English version](README_en.md)**
+**File analysing via VirusTotal directly from the Explorer context menu [English version](readme_en.md)**
