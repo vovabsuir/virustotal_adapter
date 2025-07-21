@@ -8,7 +8,7 @@
 
 ---
 
-### ‼️ Note: During installation, you’ll be asked to enter your VirusTotal API key. To jump directly to the API key setup instructions, click [here](#api-key-setup)
+### ‼️ Note: During installation, you’ll be asked to enter your VirusTotal API key. To jump directly to the API key setup instructions, click [here](#-api-key-setup)
 
 ---
 
