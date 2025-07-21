@@ -23,7 +23,7 @@
 - Создавайте ветки от `main`
   ```bash
   git checkout -b feature/your-feature-name
-- Называйте коммиты, соблюдая [Conventiaonl Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- Называйте коммиты, соблюдая [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ## 🧪 Тестирование
 - Перед PR убедитесь, что все тесты выполняются корректно:
