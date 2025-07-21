@@ -23,7 +23,7 @@
 - Create branches from `main`
   ```bash
   git checkout -b feature/your-feature-name
-- Name commmits according to [Conventiaonl Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- Name commmits according to [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ## 🧪 Testing
 - Before PR make sure that all tests have been passed:
