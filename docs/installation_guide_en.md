@@ -15,7 +15,7 @@
 ## 💾 Installation
 
 1. Download the installer: `VirusTotalAdapterSetup.exe`  
-    [![NSIS](https://img.shields.io/badge/Setup-.exe-blue?logo=NSIS&style=for-the-badge)](installer/VirusTotalAdapterSetup.exe)
+    [![NSIS](https://img.shields.io/badge/Setup-.exe-blue?logo=NSIS&style=for-the-badge)](../installer/VirusTotalAdapterSetup.exe)
 2. Launch the installer
 3. Choose the installation path (by default — `Program Files (x86)`)
 4. Wait until the installation completes
